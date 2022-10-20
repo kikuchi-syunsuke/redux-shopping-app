@@ -37,7 +37,7 @@ export const PlusIcon = () => {
 };
 
 export const MinusIcon = () => {
-    retutn(
+    return (
         <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
